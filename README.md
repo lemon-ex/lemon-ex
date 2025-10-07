@@ -1,4 +1,4 @@
-## Hi there 👋
+## السلام عليكم و رحمة الله و بركته
 
 <!--
 **lemon-ex/lemon-ex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
