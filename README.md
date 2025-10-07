@@ -1,10 +1,18 @@
-# السلام عليكم و رحمة الله و بركاته
+# السلام عليكم ورحمة الله وبركاته 🌟
+
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemon-ex&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-e&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-ex&layout=compact&theme=radical)
-
-
+---
 
 "قُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ"
