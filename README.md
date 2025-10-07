@@ -3,10 +3,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Lemon-e's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-e&theme=github-dark&hide_border=true&area=true" />
+    </td>
+  </tr>
+</table>
+</div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lemon-e&theme=dark&hide_border=true)
+<div align="center">
+  
+![GitHub Snake Dark](https://raw.githubusercontent.com/Lemon-e/Lemon-e/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
