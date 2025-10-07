@@ -1,24 +1,11 @@
-# السلام عليكم ورحمة الله وبركاته 👋
-
-## 🚀 About Me
-مطور شغوف بالتكنولوجيا، أسعى دائمًا لاكتشاف الجديد وتطوير مهاراتي. 
-أحب البرمجة والإبداع في حل المشكلات التقنية.
-
-## 💼 Skills
-- **Languages:** (اذكر لغات البرمجة التي تتقنها)
-- **Frameworks:** (الأطر التي تعمل بها)
-- **Tools:** (الأدوات التي تستخدمها)
-- **Other:** (أي مهارات أخرى)
-
-## 🌱 Currently Learning
-- (ما تتعلمه حاليًا)
-
-## 📫 How to Reach Me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+# السلام عليكم ورحمة الله وبركاته �
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-"وَقلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ" 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+"قُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ"
