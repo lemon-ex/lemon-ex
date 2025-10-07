@@ -2,16 +2,12 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-e&layout=compact&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+![Lemon-e's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-e&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
