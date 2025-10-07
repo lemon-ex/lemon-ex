@@ -1,6 +1,6 @@
 # السلام عليكم ورحمة الله وبركاته
 
-## 📊 GitHub Stats
+## 📊 الإحصائيات
 
 <div align="center">
   <table border="0" style="border:none;">
