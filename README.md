@@ -4,9 +4,9 @@
 
 <div align="center">
   
-![Lemon-e's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Lemon-e's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemon-e&show_icons=true&theme=dark&hide_border=true&hide=prs,issues)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-e&hide=html,css&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lemon-e&theme=dark&hide_border=true)
 
 </div>
 
